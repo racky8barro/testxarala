@@ -1,0 +1,173 @@
+header{
+    background-color:#F5F5F5;
+    height: 500px;
+}
+
+.log{
+    margin-left: 100px;
+    display: flex;
+    
+    
+}
+.lecture{
+    width: 50%;
+}
+.lebutton{
+    display: flex;
+    align-items: center;
+    margin-left: 500px;
+    margin-top: 100px;
+}
+.lien{
+     margin: 0 0 0 0;
+    display: flex;
+    gap : 25px ; 
+    margin-left: 850px;
+    align-items: center;
+    
+    }
+    .button{
+ background-color:#F5F5F5;
+ width: 200px;
+ height: 80px;
+ border: 1px solid blue;
+ border-radius: 25px;
+ color: blue;
+ font-size: 1.2rem;
+ font-weight: bold;
+ 
+    }
+    .image{
+        margin-top: 50px;
+        margin-left: 100px;
+    }
+.services{
+    background-color: #C4F3EE;
+    height: 700px;
+}
+h2{
+    padding-left: 100px;
+    padding-top: 50px;
+    color: blue;
+}
+.experiences{
+    background-color: white;
+    height: 500px;
+}
+.icons{
+    display: flex;
+    justify-content: space-between;
+}
+.iconss{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 100px;
+}
+.contact{
+    background-color: #F5F5F5;
+    height: 500px;
+}
+.barre{
+    
+    margin-left: 370px;
+    
+}
+.dev{
+    width: 29%;
+    background-color: white;
+    margin-left: 200px ;
+    height: 200px;
+}
+.dev-2{
+    width: 29%;
+    background-color: white;
+    margin-left: 200px ;
+    height: 200px;
+    margin-top: 25px;
+}
+    .lorem{
+        display: flex;
+        
+        margin-left: 100px;
+
+
+    }
+    .text{
+        margin-left: 100px;
+    }
+    .nom{
+        margin-left: 200px;
+        margin-top: 100px;
+        opacity: 0.5;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    }
+    .madiv{
+        display: flex;
+    }
+    .mobile{
+        display: flex;
+        margin-left: 800px;
+        gap: 50px;
+    }
+.Madiv{
+    display: flex;
+}
+.right{
+    margin-left: 100px;
+    width: 50%;
+    margin-top: 100px;
+    
+   
+}
+
+.left{
+    width: 50%;
+    margin-top: 100px;
+    margin-left: 100px;
+}
+    .port{
+        color: blue;
+        margin-left: 100px;
+    }
+.Porfolio{
+    background-color:white;
+    height: 500px;
+}
+.appli{
+    background-color: #F5F5F5;
+    height: 30px;
+    margin-left: 100px;
+    border-radius: 10px;
+}
+
+    .page {
+        display: flex;
+        background-color: white;
+    }
+    h4 {
+        color : blue;
+    }
+    .primary{
+        width: 500px;
+        height: 50px;
+        background-color: rgb(64, 64, 190);
+        color: white;
+        margin-top: 100px;
+        border-radius: 10px;
+        margin-left: 100px;
+        border: 1px solid rgb(64, 64, 190);
+    }
+
+    
+    .secondary{
+        width: 500px;
+        height: 50px;
+        background-color: rgb(64, 64, 190);
+        color: white;
+        border-radius: 25px;
+        border: 1px solid rgb(64, 64, 190);
+    }
+.fleche{
+    margin-top: 10px;
+    margin-left: 150px;
+}
